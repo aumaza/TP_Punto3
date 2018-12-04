@@ -1,1 +1,2 @@
 Nombre:Gamma - IP:1.1.1.1
+Nombre:Beta - IP:2.2.2.2
